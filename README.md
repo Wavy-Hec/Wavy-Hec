@@ -55,7 +55,7 @@ I’m slowly training with the goal of **climbing a mountain** 🏔️.
 - Pursuing an **M.S. in Computer Science** at UTRGV; research in RL for multi-agent systems and robotic locomotion.  
 - **Machine Learning Intern at INL**, applying deep learning to signal analysis and smart grid systems.  
 - Active member of UTRGV’s **Machine Intelligence Lab**, contributing to reinforcement learning and robotics research.  
-- **Co-instructing CSCI 1101** (Intro to Computer Science) with [@jerwng](https://github.com/jerwng) for Fall 2025.  
+- **Co-instructing CSCI 1101** (Intro to Computer Science) with [@jerwng](https://github.com/jerwng).  
 
 
 ---
