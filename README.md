@@ -40,7 +40,6 @@ I’m Hector, a Master’s student in Computer Science at **UTRGV**. My passion 
 
 I’ve been developing RL pipelines and training agents in simulation using **NVIDIA Isaac Sim**, exploring transformer-based models, policy learning, and sim-to-real transfer.
 
-I’m currently a **Machine Learning Intern at Idaho National Laboratory**, where I apply deep learning to signal analysis and smart grid systems. I’m also active in RL research at UTRGV’s **Machine Intelligence Lab**, working on scalable reinforcement learning models and robotics environments.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Wavy-Hec/Wavy-Hec/main/1000056194.JPG" width="600" alt="Hector hiking in the mountains"/>
@@ -54,7 +53,10 @@ I’m slowly training with the goal of **climbing a mountain** 🏔️.
 
 ### What I Am Doing Currently
 - Pursuing an **M.S. in Computer Science** at UTRGV; research in RL for multi-agent systems and robotic locomotion.  
+- **Machine Learning Intern at INL**, applying deep learning to signal analysis and smart grid systems.  
+- Active member of UTRGV’s **Machine Intelligence Lab**, contributing to reinforcement learning and robotics research.  
 - **Co-instructing CSCI 1101** (Intro to Computer Science) with [@jerwng](https://github.com/jerwng) for Fall 2025.  
+
 
 ---
 
