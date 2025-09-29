@@ -23,6 +23,9 @@
   <a href="https://github.com/Wavy-Hec">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Wavy--Hec-181717?logo=github&logoColor=white">
   </a>
+    <a href="https://open.spotify.com/user/karatekid1222">
+    <img alt="Spotify" src="https://img.shields.io/badge/Spotify-1DB954?logo=spotify&logoColor=white&style=for-the-badge">
+  </a>
 </p>
 
 <p align="center">
