@@ -38,6 +38,13 @@ I’ve been developing RL pipelines and training agents in simulation using **NV
 
 I’m currently a **Machine Learning Intern at Idaho National Laboratory**, where I apply deep learning to signal analysis and smart grid systems. I’m also active in RL research at UTRGV’s **Machine Intelligence Lab**, working on scalable reinforcement learning models and robotics environments.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Wavy-Hec/Wavy-Hec/main/images/hiking.jpg" width="600" alt="Hector hiking in the mountains"/>
+</p>
+
+Outside of research, I enjoy **Taekwondo** and **hiking** 🥋🥾.  
+I’m slowly training with the goal of **climbing a mountain** 🏔️.
+
 ---
 
 ### What I Am Doing Currently
