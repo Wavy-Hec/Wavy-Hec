@@ -72,6 +72,10 @@ I’m slowly training with the goal of **climbing a mountain** 🏔️.
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Slurm-2D4F8E?logo=gnu&logoColor=white" />
   <img src="https://img.shields.io/badge/Isaac%20Lab-000?logo=nvidia&logoColor=76B900" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
+
+
 </p>
 
 ---
