@@ -82,9 +82,10 @@ I’m slowly training with the goal of **climbing a mountain** 🏔️.
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Wavy-Hec&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wavy-Hec&layout=compact&theme=react&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Wavy-Hec&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&cache_seconds=1800&v=3" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wavy-Hec&layout=compact&theme=react&hide_border=true&langs_count=10&v=3" />
 </div>
+
 
 ---
 
