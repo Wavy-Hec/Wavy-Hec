@@ -44,7 +44,9 @@ I’ve been developing RL pipelines and training agents in simulation using **NV
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Wavy-Hec/Wavy-Hec/main/1000056194.JPG" width="600" alt="Hector hiking in the mountains"/>
+  <a href="https://github.com/Wavy-Hec/Wavy-Hec/blob/main/1000056194.JPG" target="_blank">
+    <img src="https://raw.githubusercontent.com/Wavy-Hec/Wavy-Hec/main/1000056194.JPG" width="600" alt="Hector hiking in the mountains"/>
+  </a>
 </p>
 
 
