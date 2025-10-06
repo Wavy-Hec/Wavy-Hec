@@ -10,10 +10,8 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C0FF&center=true&vCenter=true&width=650&lines=Graduate+Research+Assistant+%40+UTRGV;Focused+on+Reinforcement+Learning+%26+Computer+Vision">
-
   </a>
 </p>
-
 
 <p align="center">
   <a href="mailto:hlugo576@gmail.com">
@@ -28,8 +26,10 @@
   <a href="https://open.spotify.com/user/karatekid1222">
     <img alt="Spotify" src="https://img.shields.io/badge/Spotify-Listen-1DB954?logo=spotify&logoColor=white">
   </a>
+  <a href="https://www.instagram.com/wavy_hec/">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-wavy__hec-E4405F?logo=instagram&logoColor=white">
+  </a>
 </p>
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Wavy-Hec&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
@@ -42,13 +42,11 @@ I’m Hector, a Master’s student in Computer Science at **UTRGV**. My passion 
 
 I’ve been developing RL pipelines and training agents in simulation using **NVIDIA Isaac Sim**, exploring transformer-based models, policy learning, and sim-to-real transfer.
 
-
 <p align="center">
   <a href="https://github.com/Wavy-Hec/Wavy-Hec/blob/main/1000056194.JPG" target="_blank">
     <img src="https://raw.githubusercontent.com/Wavy-Hec/Wavy-Hec/main/1000056194.JPG" width="600" alt="Hector hiking in the mountains"/>
   </a>
 </p>
-
 
 Outside of research, I enjoy **Taekwondo** and **hiking** 🥋🥾.  
 I’m slowly training with the goal of **climbing a mountain** 🏔️.
@@ -60,7 +58,6 @@ I’m slowly training with the goal of **climbing a mountain** 🏔️.
 - **Machine Learning Intern at INL**, applying deep learning to signal analysis and smart grid systems.  
 - Active member of UTRGV’s **Machine Intelligence Lab**, contributing to reinforcement learning and robotics research.  
 - **Co-instructing CSCI 1101** (Intro to Computer Science) with [@jerwng](https://github.com/jerwng).  
-
 
 ---
 
@@ -78,8 +75,6 @@ I’m slowly training with the goal of **climbing a mountain** 🏔️.
   <img src="https://img.shields.io/badge/Isaac%20Lab-000?logo=nvidia&logoColor=76B900" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
-
-
 </p>
 
 ---
@@ -89,7 +84,6 @@ I’m slowly training with the goal of **climbing a mountain** 🏔️.
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Wavy-Hec&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&cache_seconds=1800&v=3" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wavy-Hec&layout=compact&theme=react&hide_border=true&langs_count=10&v=3" />
 </div>
-
 
 ---
 
