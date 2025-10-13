@@ -79,7 +79,6 @@ I’m slowly training with the goal of **climbing a mountain** 🏔️.
 
 ---
 
-### 📊 GitHub Stats
 # :bar_chart: Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Wavy-Hec&show_icons=true&theme=react&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
