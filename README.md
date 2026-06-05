@@ -161,30 +161,6 @@ I'm slowly training with the goal of **climbing a mountain** 🏔️.
 
 ---
 
-## // coding_activity
-
-<!--START_SECTION:waka-->
-<sub>⏳ Weekly coding breakdown (languages, editors, time of day) appears here once WakaTime is connected — see <a href="https://github.com/Wavy-Hec/Wavy-Hec/blob/main/SETUP.md">SETUP.md</a>.</sub>
-<!--END_SECTION:waka-->
-
----
-
-## // metrics
-
-<!--
-  DETAILED METRICS DASHBOARD (enable after one-time setup — see SETUP.md):
-  Add a classic PAT (scopes: repo, read:org) as repo secret METRICS_TOKEN, run the
-  "Generate Metrics" workflow (Actions tab), then uncomment the embed below.
-
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/Wavy-Hec/Wavy-Hec/main/github-metrics.svg" alt="Metrics" />
-  </p>
--->
-
-<p align="center"><sub>📊 Detailed metrics dashboard generates weekly once <code>METRICS_TOKEN</code> is configured — see <a href="https://github.com/Wavy-Hec/Wavy-Hec/blob/main/SETUP.md">SETUP.md</a>.</sub></p>
-
----
-
 ## // contribution_calendar
 
 <p align="center">
