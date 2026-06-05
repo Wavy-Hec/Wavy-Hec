@@ -1,7 +1,7 @@
-<h1 align="center">Hector Lugo III</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=AI%2FML+Research+Intern+%40+AFRL;Reinforcement+Learning+%2B+Computer+Vision;Vision-Language+Models+for+Robotics;Building+intelligent+systems+that+move" alt="typing tagline"/>
+  <a href="https://wavy-hec.github.io/PortfolioWebsite/">
+    <img src="https://raw.githubusercontent.com/Wavy-Hec/Wavy-Hec/main/assets/terminal-header.svg" width="100%" alt="Hector Lugo III — terminal banner"/>
+  </a>
 </p>
 
 <p align="center">
@@ -158,6 +158,14 @@ I'm slowly training with the goal of **climbing a mountain** 🏔️.
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wavy-Hec&theme=react-dark&hide_border=true&area=true" />
 </p>
+
+---
+
+## // coding_activity
+
+<!--START_SECTION:waka-->
+<sub>⏳ Weekly coding breakdown (languages, editors, time of day) appears here once WakaTime is connected — see <a href="https://github.com/Wavy-Hec/Wavy-Hec/blob/main/SETUP.md">SETUP.md</a>.</sub>
+<!--END_SECTION:waka-->
 
 ---
 
