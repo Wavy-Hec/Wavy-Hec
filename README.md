@@ -129,14 +129,26 @@ I'm slowly training with the goal of **climbing a mountain** 🏔️.
 
 ## // featured_projects
 
+**🤖 Robotics &amp; Reinforcement Learning**
+
+| Project | What it does | Stack |
+|---------|--------------|-------|
+| **[RL_IsaacLab](https://github.com/Wavy-Hec/RL_IsaacLab)** | Multi-agent legged locomotion in simulation | Isaac Lab · LocoMuJoCo |
+| **[KissICP](https://github.com/Wavy-Hec/KissICP)** | LiDAR odometry via point-to-point ICP | Python |
+| **[Chess-AlphaGO](https://github.com/Wavy-Hec/Chess-AlphaGO)** | AlphaGo-style self-play agent for chess | Python |
+
+**👁️ Computer Vision &amp; Vision-Language**
+
 | Project | What it does | Stack |
 |---------|--------------|-------|
 | **[VLM](https://github.com/Wavy-Hec/VLM)** | Vision-language models for agent instruction-following | Python · PyTorch |
-| **[RL_IsaacLab](https://github.com/Wavy-Hec/RL_IsaacLab)** | Multi-agent legged locomotion in simulation | Isaac Lab · LocoMuJoCo |
 | **[ObjectDetection](https://github.com/Wavy-Hec/ObjectDetection)** | Real-time YOLO object detection for robotics | Python · YOLO |
+
+**📡 Signal &amp; ML**
+
+| Project | What it does | Stack |
+|---------|--------------|-------|
 | **[FFT-Denoising](https://github.com/IdahoLabUnsupported/FFT-Denoising)** | ResNet autoencoder for smart-grid signal denoising | PyTorch |
-| **[Chess-AlphaGO](https://github.com/Wavy-Hec/Chess-AlphaGO)** | AlphaGo-style self-play agent for chess | Python |
-| **[KissICP](https://github.com/Wavy-Hec/KissICP)** | LiDAR odometry via point-to-point ICP | Python |
 
 <p align="center">
   <a href="https://wavy-hec.github.io/PortfolioWebsite/"><b>→ See all projects on my portfolio</b></a>
@@ -153,10 +165,6 @@ I'm slowly training with the goal of **climbing a mountain** 🏔️.
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wavy-Hec&theme=react&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wavy-Hec&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 ---
@@ -178,3 +186,17 @@ I'm slowly training with the goal of **climbing a mountain** 🏔️.
     <img alt="github-snake" src="https://raw.githubusercontent.com/Wavy-Hec/Wavy-Hec/output/snake.svg" />
   </picture>
 </p>
+
+---
+
+## $ contact
+
+<p align="center">
+  <i>Open to research collaborations and ML / robotics roles.</i><br/><br/>
+  📫 <a href="mailto:hlugo576@gmail.com">hlugo576@gmail.com</a>
+  &nbsp;·&nbsp; 🌐 <a href="https://wavy-hec.github.io/PortfolioWebsite/">Portfolio</a>
+  &nbsp;·&nbsp; 💼 <a href="https://linkedin.com/in/hector-lugo-3rd">LinkedIn</a>
+  &nbsp;·&nbsp; 🎓 <a href="https://scholar.google.com/citations?user=Z-sAdqMAAAAJ&hl=en">Scholar</a>
+</p>
+
+<p align="center"><sub><code>$ exit</code> — thanks for scrolling 👋</sub></p>
