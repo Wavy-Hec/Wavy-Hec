@@ -1,16 +1,5 @@
-<div align="center">
-   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:87CEFA,100:1E90FF&reversal=true" />
-</div>
-
-<h3 align="center">
-  Hi, I'm Hector Lugo III
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
-
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C0FF&center=true&vCenter=true&width=650&lines=%24+whoami;AI%2FML+Research+Intern+%40+AFRL;Reinforcement+Learning+%2B+Computer+Vision;Vision-Language+Models+for+Robotics">
-  </a>
+  <img src="https://raw.githubusercontent.com/Wavy-Hec/Wavy-Hec/main/assets/terminal-header.svg" width="100%" alt="Hector Lugo III — terminal banner"/>
 </p>
 
 <p align="center">
@@ -50,16 +39,9 @@
   <img src="https://komarev.com/ghpvc/?username=Wavy-Hec&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
 </p>
 
----
+<img src="https://raw.githubusercontent.com/Wavy-Hec/Wavy-Hec/main/assets/divider.svg" width="100%" alt="" />
 
 ## $ whoami
-
-```bash
-> M.S. Computer Science @ UTRGV
-> Building intelligent systems across RL, computer vision, and VLMs for robotics
-> Focus: autonomous navigation, robotic locomotion, sim-to-real transfer
-> Now: AI/ML Research Intern @ Air Force Research Laboratory
-```
 
 I'm Hector — a Master's student in Computer Science at **UTRGV**. My passion lies in building intelligent systems that combine **reinforcement learning**, **computer vision**, and **vision-language models**, with a focus on autonomous navigation and locomotion for robotics.
 
@@ -74,7 +56,7 @@ I develop RL pipelines and train agents in simulation using **NVIDIA Isaac Sim /
 Outside of research, I enjoy **Taekwondo** and **hiking** 🥋🥾.
 I'm slowly training with the goal of **climbing a mountain** 🏔️.
 
----
+<img src="https://raw.githubusercontent.com/Wavy-Hec/Wavy-Hec/main/assets/divider.svg" width="100%" alt="" />
 
 ## // currently
 
@@ -84,27 +66,72 @@ I'm slowly training with the goal of **climbing a mountain** 🏔️.
 - 👨‍🏫 **Co-instructing CSCI 1101** (Intro to Computer Science) with [@jerwng](https://github.com/jerwng).
 - 🔬 Previously **ML Engineer @ Idaho National Laboratory** (2025–2026) — ResNet autoencoders for signal denoising, **~93% training acceleration**.
 
----
+<img src="https://raw.githubusercontent.com/Wavy-Hec/Wavy-Hec/main/assets/divider.svg" width="100%" alt="" />
 
 ## // stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Slurm-2D4F8E?logo=gnu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Isaac%20Lab-000?logo=nvidia&logoColor=76B900" />
-  <img src="https://img.shields.io/badge/ROS-22314E?logo=ros&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
-</p>
+<table>
+  <tr>
+    <td><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" />
+      <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>ML / DL</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Robotics &amp; Sim</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Isaac%20Lab-000?logo=nvidia&logoColor=76B900" />
+      <img src="https://img.shields.io/badge/ROS-22314E?logo=ros&logoColor=white" />
+      <img src="https://img.shields.io/badge/MuJoCo-FF6B00?logo=google&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Infra &amp; Tools</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
+      <img src="https://img.shields.io/badge/Slurm-2D4F8E?logo=gnu&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
----
+<img src="https://raw.githubusercontent.com/Wavy-Hec/Wavy-Hec/main/assets/divider.svg" width="100%" alt="" />
+
+## // research
+
+<table>
+  <tr>
+    <td>📄</td>
+    <td><b>Offline Reinforcement Learning Approaches for Safe and Effective Smart Grid Control</b><br/>
+    <sub><i>International Congress on Information & Communication Technology</i> · 2025</sub></td>
+  </tr>
+  <tr>
+    <td>📄</td>
+    <td><b>Personalized Chemotherapy Dosing Through Offline Reinforcement Learning</b><br/>
+    <sub><i>International Congress on Information & Communication Technology</i> · 2025</sub></td>
+  </tr>
+  <tr>
+    <td>📄</td>
+    <td><b>Spectral Clustering in Railway Crossing Accidents Analysis</b><br/>
+    <sub><i>ASME/IEEE Joint Rail Conference</i> · 2024</sub></td>
+  </tr>
+</table>
+
+<sub>📚 Full list & citations on <a href="https://scholar.google.com/citations?user=Z-sAdqMAAAAJ&hl=en">Google Scholar</a></sub>
+
+<img src="https://raw.githubusercontent.com/Wavy-Hec/Wavy-Hec/main/assets/divider.svg" width="100%" alt="" />
 
 ## // featured_projects
 
@@ -157,7 +184,7 @@ I'm slowly training with the goal of **climbing a mountain** 🏔️.
   <a href="https://wavy-hec.github.io/PortfolioWebsite/"><b>→ See all projects on my portfolio</b></a>
 </p>
 
----
+<img src="https://raw.githubusercontent.com/Wavy-Hec/Wavy-Hec/main/assets/divider.svg" width="100%" alt="" />
 
 ## // stats
 
@@ -178,7 +205,7 @@ I'm slowly training with the goal of **climbing a mountain** 🏔️.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wavy-Hec&theme=react-dark&hide_border=true&area=true" />
 </p>
 
----
+<img src="https://raw.githubusercontent.com/Wavy-Hec/Wavy-Hec/main/assets/divider.svg" width="100%" alt="" />
 
 ## // now_playing
 
@@ -189,10 +216,9 @@ I'm slowly training with the goal of **climbing a mountain** 🏔️.
 </p>
 
 <!--
-  LIVE NOW-PLAYING WIDGET (enable after one-time setup):
-  1. Deploy your Wavy-Hec/SpotifyReadMe fork to Vercel.
-  2. In Vercel, set env vars: SPOTIFY_CLIENT_ID, SPOTIFY_CLIENT_SECRET, SPOTIFY_REFRESH_TOKEN.
-  3. Replace <your-vercel-app> below with your deployment URL, then uncomment this block.
+  LIVE NOW-PLAYING WIDGET (enable after one-time setup — see SETUP.md):
+  Deploy your Wavy-Hec/SpotifyReadMe fork to Vercel, then replace <your-vercel-app>
+  with your deployment URL and uncomment this block.
 
   <p align="center">
     <a href="https://open.spotify.com/user/karatekid1222">
@@ -201,25 +227,23 @@ I'm slowly training with the goal of **climbing a mountain** 🏔️.
   </p>
 -->
 
----
+<img src="https://raw.githubusercontent.com/Wavy-Hec/Wavy-Hec/main/assets/divider.svg" width="100%" alt="" />
 
 ## // metrics
 
 <!--
-  DETAILED METRICS DASHBOARD (enable after one-time setup):
-  1. Create a classic Personal Access Token with scopes: repo, read:org.
-  2. Add it as a repo secret named METRICS_TOKEN (Settings → Secrets and variables → Actions).
-  3. Run the "Generate Metrics" workflow (Actions tab → Run workflow). It commits github-metrics.svg.
-  4. Uncomment the embed below.
+  DETAILED METRICS DASHBOARD (enable after one-time setup — see SETUP.md):
+  Add a classic PAT (scopes: repo, read:org) as repo secret METRICS_TOKEN, run the
+  "Generate Metrics" workflow (Actions tab), then uncomment the embed below.
 
   <p align="center">
     <img src="https://raw.githubusercontent.com/Wavy-Hec/Wavy-Hec/main/github-metrics.svg" alt="Metrics" />
   </p>
 -->
 
-<p align="center"><sub>📊 Detailed metrics dashboard generates weekly once <code>METRICS_TOKEN</code> is configured.</sub></p>
+<p align="center"><sub>📊 Detailed metrics dashboard generates weekly once <code>METRICS_TOKEN</code> is configured — see <a href="https://github.com/Wavy-Hec/Wavy-Hec/blob/main/SETUP.md">SETUP.md</a>.</sub></p>
 
----
+<img src="https://raw.githubusercontent.com/Wavy-Hec/Wavy-Hec/main/assets/divider.svg" width="100%" alt="" />
 
 ## 🐍 Contributions Snake
 
