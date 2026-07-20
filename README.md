@@ -31,38 +31,45 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Wavy-Hec&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
-</p>
+```python
+env   = UTRGV(program="M.S. Computer Science")
+agent = Hector(focus=["reinforcement learning", "robot locomotion", "VLMs"])
+
+obs, done = env.reset(), False
+while not done:                      # ← you are here
+    action = agent.policy(obs)       # train robots · read papers · teach · repeat
+    obs, reward, done, _ = env.step(action)
+```
 
 ---
 
-## $ whoami
+## >>> agent.whoami()
 
-I'm Hector — a Master's student in Computer Science at **UTRGV**. My passion lies in building intelligent systems that combine **reinforcement learning**, **computer vision**, and **vision-language models**, with a focus on autonomous navigation and locomotion for robotics.
+I'm Hector, a CS master's student at **UTRGV**. I mostly work on getting legged robots to move — reinforcement-learning policies trained in **NVIDIA Isaac Sim / Isaac Lab**, with the real goal being sim-to-real.
 
-I develop RL pipelines and train agents in simulation using **NVIDIA Isaac Sim / Isaac Lab**, exploring transformer-based models, policy learning, and sim-to-real transfer.
+Right now I'm focused on **quadruped navigation** and **vision-language models**: an instruction goes in, the robot reads its surroundings, and (ideally) it goes where you asked. At **AFRL** I'm on the perception end of that — how VLMs handle many camera feeds at once.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Wavy-Hec/Wavy-Hec/main/1000056194.JPG" width="600" alt="Hector hiking in the mountains"/>
 </p>
 
-Outside of research, I enjoy **Taekwondo** and **hiking** 🥋🥾.
-I'm slowly training with the goal of **climbing a mountain** 🏔️.
+## >>> off_policy()
+
+When I'm not training agents, I train myself: **Taekwondo** 🥋 and **hiking** 🥾, slowly working up to summiting a real mountain 🏔️.
 
 ---
 
-## // currently
+## >>> observation          # current state
 
-- 🛰️ **AI/ML Research Intern @ Air Force Research Laboratory** (2026–Present) — multi-agent perception & multi-camera systems.
-- 🎓 **M.S. in Computer Science @ UTRGV** — research in RL for multi-agent systems and robotic locomotion.
-- 🧠 Active member of **UTRGV's [Machine Intelligence Lab](https://miutrgv.github.io/)** — reinforcement learning & robotics research.
+- 🛰️ **AI/ML Research Intern — Air Force Research Laboratory** (2026–present): multi-camera perception with vision-language models.
+- 🎓 **M.S. Computer Science — UTRGV**: reinforcement learning for locomotion and multi-agent systems.
+- 🧠 **Machine Intelligence Lab @ UTRGV** — [miutrgv.github.io](https://miutrgv.github.io/): RL & robotics research.
 - 👨‍🏫 **Co-instructing CSCI 1101** (Intro to Computer Science) with [@jerwng](https://github.com/jerwng).
-- 🔬 Previously **ML Engineer @ Idaho National Laboratory** (2025–2026) — ResNet autoencoders for signal denoising, **~93% training acceleration**.
+- 🔬 **Previously ML Engineer — Idaho National Laboratory** (2025–2026): ResNet autoencoders for signal denoising, cut training time by ~93%.
 
 ---
 
-## // stack
+## >>> action_space         # things I reach for
 
 <table>
   <tr>
@@ -80,12 +87,14 @@ I'm slowly training with the goal of **climbing a mountain** 🏔️.
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
       <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
       <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white" />
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" />
     </td>
   </tr>
   <tr>
     <td><b>Robotics &amp; Sim</b></td>
     <td>
       <img src="https://img.shields.io/badge/Isaac%20Lab-000?logo=nvidia&logoColor=76B900" />
+      <img src="https://img.shields.io/badge/Isaac%20Sim-000?logo=nvidia&logoColor=76B900" />
       <img src="https://img.shields.io/badge/ROS-22314E?logo=ros&logoColor=white" />
       <img src="https://img.shields.io/badge/MuJoCo-FF6B00?logo=google&logoColor=white" />
     </td>
@@ -103,18 +112,23 @@ I'm slowly training with the goal of **climbing a mountain** 🏔️.
 
 ---
 
-## // research
+## >>> reward               # work that landed
 
 <table>
   <tr>
+    <td>🤖</td>
+    <td><b>Vision–Language Guided Quadruped Navigation with Reinforcement Learning Control</b><br/>
+    <sub><i>IEEE International Conference on Machine Learning and Applications (ICMLA)</i> · 2026 · <b>accepted</b></sub></td>
+  </tr>
+  <tr>
     <td>📄</td>
     <td><b>Offline Reinforcement Learning Approaches for Safe and Effective Smart Grid Control</b><br/>
-    <sub><i>International Congress on Information & Communication Technology</i> · 2025</sub></td>
+    <sub><i>International Congress on Information &amp; Communication Technology</i> · 2025</sub></td>
   </tr>
   <tr>
     <td>📄</td>
     <td><b>Personalized Chemotherapy Dosing Through Offline Reinforcement Learning</b><br/>
-    <sub><i>International Congress on Information & Communication Technology</i> · 2025</sub></td>
+    <sub><i>International Congress on Information &amp; Communication Technology</i> · 2025</sub></td>
   </tr>
   <tr>
     <td>📄</td>
@@ -123,11 +137,11 @@ I'm slowly training with the goal of **climbing a mountain** 🏔️.
   </tr>
 </table>
 
-<sub>📚 Full list & citations on <a href="https://scholar.google.com/citations?user=Z-sAdqMAAAAJ&hl=en">Google Scholar</a></sub>
+<sub>📚 Full list &amp; citations on <a href="https://scholar.google.com/citations?user=Z-sAdqMAAAAJ&hl=en">Google Scholar</a></sub>
 
 ---
 
-## // featured_projects
+## >>> trajectory           # selected rollouts
 
 **🤖 Robotics &amp; Reinforcement Learning**
 
@@ -156,7 +170,7 @@ I'm slowly training with the goal of **climbing a mountain** 🏔️.
 
 ---
 
-## // stats
+## >>> tensorboard --logdir ./runs
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Wavy-Hec&show_icons=true&theme=react&hide_border=true&count_private=true" />
@@ -164,20 +178,8 @@ I'm slowly training with the goal of **climbing a mountain** 🏔️.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wavy-Hec&theme=react&hide_border=true" />
-</p>
-
----
-
-## // contribution_calendar
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/Wavy-Hec/Wavy-Hec/main/profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D isometric contribution calendar"/>
 </p>
-
----
-
-## 🐍 Contributions Snake
 
 <p align="center">
   <picture>
@@ -189,7 +191,7 @@ I'm slowly training with the goal of **climbing a mountain** 🏔️.
 
 ---
 
-## $ contact
+## >>> env.step("say hi")
 
 <p align="center">
   <i>Open to research collaborations and ML / robotics roles.</i><br/><br/>
@@ -199,4 +201,4 @@ I'm slowly training with the goal of **climbing a mountain** 🏔️.
   &nbsp;·&nbsp; 🎓 <a href="https://scholar.google.com/citations?user=Z-sAdqMAAAAJ&hl=en">Scholar</a>
 </p>
 
-<p align="center"><sub><code>$ exit</code> — thanks for scrolling 👋</sub></p>
+<p align="center"><sub><code>done = True  # episode complete — thanks for watching the rollout 👋</code></sub></p>
