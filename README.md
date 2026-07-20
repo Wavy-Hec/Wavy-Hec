@@ -26,7 +26,7 @@
   <a href="https://wavy-hec.github.io/PortfolioWebsite/">
     <img alt="Visit My Portfolio" src="https://img.shields.io/badge/Visit_My_Portfolio-1E90FF?style=for-the-badge&logo=googlechrome&logoColor=white">
   </a>
-  <a href="https://wavy-hec.github.io/PortfolioWebsite/Hector_Lugo_Resume_Spring_2026.pdf">
+ <a href="https://wavy-hec.github.io/PortfolioWebsite/Hector_Lugo_Resume_Summer.pdf">
     <img alt="Resume" src="https://img.shields.io/badge/View_Resume-EE4C2C?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
   </a>
 </p>
