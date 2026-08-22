@@ -23,9 +23,5 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
-          # commit the generated SVGs as the profile owner, not github-actions[bot],
-          # so the bot never appears in the contributors box
-          author: "Wavy-Hec <hlugo576@gmail.com>"
-          committer: "Wavy-Hec <hlugo576@gmail.com>"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
