@@ -148,6 +148,7 @@ When I'm not training agents, I train myself: **Taekwondo** 🥋 and **hiking** 
 
 | Project | What it does | Stack |
 |---------|--------------|-------|
+| **[poker-rl](https://github.com/Wavy-Hec/poker-rl)** | 6-max No-Limit Hold'em PPO self-play agent + real-time web table you can play against | PyTorch · RLCard |
 | **[RL_IsaacLab](https://github.com/Wavy-Hec/RL_IsaacLab)** | Multi-agent legged locomotion in simulation | Isaac Lab · LocoMuJoCo |
 | **[KissICP](https://github.com/Wavy-Hec/KissICP)** | LiDAR odometry via point-to-point ICP | Python |
 | **[Chess-AlphaGO](https://github.com/Wavy-Hec/Chess-AlphaGO)** | AlphaZero-style self-play chess agent on Pgx | Python · JAX |
