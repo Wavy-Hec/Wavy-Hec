@@ -5,17 +5,11 @@
 </p>
 
 <p align="center">
-  <a href="https://wavy-hec.github.io/PortfolioWebsite/">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-wavy--hec.github.io-FF6F00?logo=githubpages&logoColor=white">
-  </a>
   <a href="mailto:hlugo576@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-hlugo576%40gmail.com-red?logo=gmail&logoColor=white">
   </a>
   <a href="https://linkedin.com/in/hector-lugo-3rd">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-hector--lugo--3rd-0A66C2?logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://github.com/Wavy-Hec">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Wavy--Hec-181717?logo=github&logoColor=white">
   </a>
   <a href="https://scholar.google.com/citations?user=Z-sAdqMAAAAJ&hl=en">
     <img alt="Google Scholar" src="https://img.shields.io/badge/Google%20Scholar-4285F4?logo=googlescholar&logoColor=white">
@@ -47,7 +41,7 @@ while not done:                      # ← you are here
 
 I'm Hector, a CS master's student at **UTRGV**. I mostly work on getting legged robots to move — reinforcement-learning policies trained in **NVIDIA Isaac Sim / Isaac Lab**, with the real goal being sim-to-real.
 
-Right now I'm focused on **quadruped navigation** and **vision-language models**: an instruction goes in, the robot reads its surroundings, and (ideally) it goes where you asked. At **AFRL** I'm on the perception end of that — how VLMs handle many camera feeds at once.
+The other thread is **quadruped navigation** with **vision-language models**: an instruction goes in, the robot reads its surroundings, and (ideally) it goes where you asked. This summer at **AFRL** I worked the perception end of that — how VLMs handle many camera feeds at once — and I'm continuing that work with the team.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Wavy-Hec/Wavy-Hec/main/1000056194.JPG" width="600" alt="Hector hiking in the mountains"/>
@@ -61,11 +55,11 @@ When I'm not training agents, I train myself: **Taekwondo** 🥋 and **hiking** 
 
 ## >>> observation          # current state
 
-- 🛰️ **AI/ML Research Intern — Air Force Research Laboratory** (2026–present): multi-camera perception with vision-language models.
-- 🎓 **M.S. Computer Science — UTRGV**: reinforcement learning for locomotion and multi-agent systems.
+- 🛰️ **AI/ML Research Intern — Air Force Research Laboratory** (summer 2026): built the team's evaluation harness for multi-camera video QA with vision-language models; the collaboration continues past the internship.
+- 🎓 **M.S. Computer Science — UTRGV** (expected Dec 2026): reinforcement learning for locomotion and multi-agent systems.
 - 🧠 **Machine Intelligence Lab @ UTRGV** — [miutrgv.github.io](https://miutrgv.github.io/): RL & robotics research.
-- 👨‍🏫 **Co-instructing CSCI 1101** (Intro to Computer Science) with [@jerwng](https://github.com/jerwng).
-- 🔬 **Previously ML Engineer — Idaho National Laboratory** (2025–2026): ResNet autoencoders for signal denoising, cut training time by ~93%.
+- 👨‍🏫 **Teaching CS 1101** (Intro to CS, with [@jerwng](https://github.com/jerwng)) **and Digital Image Processing** — lectures, labs, and grading for 40+ students.
+- 🔬 **Previously ML Engineer Intern — Idaho National Laboratory** (2025–2026): ResNet autoencoders for smart-grid signal denoising; cut training time by over 93%.
 
 ---
 
@@ -85,8 +79,7 @@ When I'm not training agents, I train myself: **Taekwondo** 🥋 and **hiking** 
     <td><b>ML / DL</b></td>
     <td>
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
-      <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white" />
+      <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black" />
       <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" />
     </td>
   </tr>
@@ -122,7 +115,7 @@ When I'm not training agents, I train myself: **Taekwondo** 🥋 and **hiking** 
   </tr>
   <tr>
     <td>📄</td>
-    <td><b>Offline Reinforcement Learning Approaches for Safe and Effective Smart Grid Control</b><br/>
+    <td><b>Offline Reinforcement Learning for Safe and Effective Smart Grid Control</b><br/>
     <sub><i>International Congress on Information &amp; Communication Technology</i> · 2025</sub></td>
   </tr>
   <tr>
@@ -143,26 +136,27 @@ When I'm not training agents, I train myself: **Taekwondo** 🥋 and **hiking** 
 
 ## >>> trajectory           # selected rollouts
 
+**👁️ Vision-Language &amp; Perception**
+
+| Project | What it does | Stack |
+|---------|--------------|-------|
+| **[MultiCam](https://github.com/Wavy-Hec/MultiCam)** | Multi-camera visual QA benchmark for open VLMs — fused views vs. per-view reasoning | Python · SLURM |
+| **[VLM](https://github.com/Wavy-Hec/VLM)** | Active object search with memory — VLM-guided navigation for Unitree Go2/G1 in MuJoCo | PyTorch · MuJoCo |
+| **[ObjectDetection](https://github.com/Wavy-Hec/ObjectDetection)** | FlowCount — real-time traffic analytics with YOLO detection, tracking, and counting | Python · YOLO |
+
 **🤖 Robotics &amp; Reinforcement Learning**
 
 | Project | What it does | Stack |
 |---------|--------------|-------|
 | **[RL_IsaacLab](https://github.com/Wavy-Hec/RL_IsaacLab)** | Multi-agent legged locomotion in simulation | Isaac Lab · LocoMuJoCo |
 | **[KissICP](https://github.com/Wavy-Hec/KissICP)** | LiDAR odometry via point-to-point ICP | Python |
-| **[Chess-AlphaGO](https://github.com/Wavy-Hec/Chess-AlphaGO)** | AlphaGo-style self-play agent for chess | Python |
+| **[Chess-AlphaGO](https://github.com/Wavy-Hec/Chess-AlphaGO)** | AlphaZero-style self-play chess agent on Pgx | Python · JAX |
 
-**👁️ Computer Vision &amp; Vision-Language**
-
-| Project | What it does | Stack |
-|---------|--------------|-------|
-| **[VLM](https://github.com/Wavy-Hec/VLM)** | Vision-language models for agent instruction-following | Python · PyTorch |
-| **[ObjectDetection](https://github.com/Wavy-Hec/ObjectDetection)** | Real-time YOLO object detection for robotics | Python · YOLO |
-
-**📡 Signal &amp; ML**
+**🌃 For fun**
 
 | Project | What it does | Stack |
 |---------|--------------|-------|
-| **[FFT-Denoising](https://github.com/IdahoLabUnsupported/FFT-Denoising)** | ResNet autoencoder for smart-grid signal denoising | PyTorch |
+| **[neon-grid](https://github.com/Wavy-Hec/neon-grid)** | A walkable ASCII cyberpunk city in one HTML file — [play it](https://wavy-hec.github.io/neon-grid/) | Raycasting · Canvas |
 
 <p align="center">
   <a href="https://wavy-hec.github.io/PortfolioWebsite/"><b>→ See all projects on my portfolio</b></a>
